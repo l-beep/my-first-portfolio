@@ -52,3 +52,14 @@ body {
   margin-top: 50px;
 }
 
+.cards {
+  box-shadow: 5px 5px 5px grey;
+  box-shadow: -5px -5px -5px grey;
+  padding: 20px;
+  margin-left: 2px;
+  align-items: center;
+  background-color: rgb(229, 230, 235);
+  height: 440px;
+  width: 300px;
+}
+
