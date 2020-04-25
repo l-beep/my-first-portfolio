@@ -63,3 +63,6 @@ body {
   width: 300px;
 }
 
+.cards:hover {
+  box-shadow: 10px 10px 10px grey;
+}
