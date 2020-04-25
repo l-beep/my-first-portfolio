@@ -26,7 +26,7 @@ To view the website
 
 ## Support and Contact details
 
-Incase of any questions or issues please feel free to conduct me through email(owinolawrence21@gmail.com)
+Incase of any questions or issues please feel free to conduct me through email(oduor.lovine@gmail.com)
 
 ## Contributing
 
