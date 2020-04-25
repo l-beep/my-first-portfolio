@@ -36,6 +36,10 @@ body {
 } */
 
 .my-image {
+  height: 400px;
+  width: 400px;
+  background-image: url("./Lovine/IMG_20200406_110222_7.jpg");
+  background-size: 400px 400px;
   float: left;
   margin-right: 20px;
   border-radius: 50%;
